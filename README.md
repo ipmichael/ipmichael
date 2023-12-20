@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @ipmichael
-- 👀 I’m interested in efficiency
-- 🌱 I’m currently learning system design & architecture
-- 💞️ I’m looking to collaborate on anything related to scale
 - 📫 Reach me at ip.w.michael@gmail.com
 
 <!---
